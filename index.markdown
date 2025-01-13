@@ -23,7 +23,7 @@ Links are forthcoming
 [Drive Folder](https://drive.google.com/drive/folders/12IKR2FlM6oUC1esyF-Isb53Zz-tO7tgd?usp=sharing){: .btn .btn-primary .mr-2  }  
 [Gradescope](https://www.gradescope.com/courses/950856){: .btn .btn-primary .mr-2  }  
 [Piazza](https://piazza.com/class/m5v50o8mwqt2mp){: .btn .btn-primary .mr-2  }  
-[Canvas - forthcoming](https://canvas.its.virginia.edu/courses/133737){: .btn .btn-primary .mr-2  }  
+[Canvas](https://canvas.its.virginia.edu/courses/133737){: .btn .btn-primary .mr-2  }  
 [GitHub](https://github.com/uva-cs-4750-sp25/){: .btn .btn-primary .mr-2  }  
 
 ## Database Systems
