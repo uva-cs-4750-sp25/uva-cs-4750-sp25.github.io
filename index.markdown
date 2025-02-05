@@ -67,5 +67,20 @@ Website: [https://www.cs.virginia.edu/~pm8fc/](https://www.cs.virginia.edu/~pm8f
 
 ## TA Office Hours
 
-TA Office Hours are TBD.
+Unless otherwise listed, office hours are in Rice Hall 442
+
+### Grant Costello
+
+Tues: 3:30 - 5:30
+
+### Thao Nguyen
+
+Wed: 1:00 - 3:00
+
+### Afton Mueller
+
+Thurs: 11:00 - 1:00 p.m.
+
+### Brandon Yang
+
 
